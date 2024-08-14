@@ -1,0 +1,22 @@
+{
+    "chain_name": "fiamma",
+    "registry_name": "fiammachain",
+    "api": [
+        {"provider": "notional", "address": "https://api.fiamma.maragung.com/"},
+    ],
+    "rpc": [
+        {"provider": "maragung", "address": "https://rpc.fiamma.maragung.com/"}, 
+    ],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "3",
+    "addr_prefix": "fiamma",
+    "logo": "/logos/fiamma.svg",
+    "assets": [{
+        "base": "ufia",
+        "symbol": "FIA",
+        "exponent": "6",
+        "coingecko_id": "cosmos", 
+        "logo": "/logos/fiamma.svg"
+    }]
+}
