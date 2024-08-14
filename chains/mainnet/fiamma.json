@@ -17,14 +17,14 @@
   "coin_type": "118",
   "min_tx_fee": "3",
   "addr_prefix": "fiamma",
-  "logo": "/logos/fiamma.svg",
+  "logo": "https://explorer.maragung.com/logos/fiamma.svg",
   "assets": [
     {
       "base": "ufia",
       "symbol": "FIA",
       "exponent": 6,
       "coingecko_id": "cosmos",
-      "logo": "/logos/fiamma.svg"
+      "logo": "https://explorer.maragung.com/logos/fiamma.svg"
     }
   ]
 }
