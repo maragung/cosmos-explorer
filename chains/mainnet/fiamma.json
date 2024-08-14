@@ -2,10 +2,10 @@
     "chain_name": "fiamma",
     "registry_name": "fiammachain",
     "api": [
-        {"provider": "maragung", "address": "https://api.fiamma.maragung.com/"},
+        {"provider": "maragung", "address": "https://api.fiamma.maragung.com/"}
     ],
     "rpc": [
-        {"provider": "maragung", "address": "https://rpc.fiamma.maragung.com/"}, 
+        {"provider": "maragung", "address": "https://rpc.fiamma.maragung.com/"} 
     ],
     "sdk_version": "0.45.1",
     "coin_type": "118",
