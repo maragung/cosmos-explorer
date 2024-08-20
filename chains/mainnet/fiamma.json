@@ -5,12 +5,20 @@
     {
       "provider": "maragung",
       "address": "https://api.fiamma.maragung.com/"
+    },
+    {
+      "provider": "fiamma",
+      "address": "https://testnet-api.fiammachain.io/"
     }
   ],
   "rpc": [
     {
       "provider": "maragung",
       "address": "https://rpc.fiamma.maragung.com/"
+    },
+     {
+      "provider": "fiamma",
+      "address": "https://testnet-rpc.fiammachain.io/"
     }
   ],
   "sdk_version": "0.45.1",
